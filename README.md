@@ -17,7 +17,7 @@ Here's an overview of the PageRank algorithm:<br>
 
 1. Clone the GitHub repository to your local machine:
 ```
-git clone https://github.com/Youssab-William/Search-Engine
+git clone https://github.com/Psycho-seif/Search-Engine
 
 ```
 2. Navigate to the project directory:
